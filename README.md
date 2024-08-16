@@ -1,29 +1,25 @@
 # 🚀 About Me
-[Brief introduction about yourself, your interests, and your professional background]
+ I’m [PECHAZHAGAN.R], and I recently graduated with a degree in Marketing from [CSE]. Over the past few years, I’ve gained hands-on experience through internships and freelance projects, where I specialized in digital marketing and social media management.
+
+During my last internship at [HTML], I managed several successful campaigns that increased our social media engagement by 40% and contributed to a 20% growth in lead generation. I’m particularly skilled in using analytics tools like Google Analytics and HubSpot to track performance and optimize campaigns.
+
 
 ## 🛠 Skills
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- ...
+- [JAVA]
+- [PROGRAMING IN C]
+- [PYTHON]
+
 
 ## 🔭 Current Projects
-- [Project 1]: [Brief description]
-- [Project 2]: [Brief description]
+- [Project 1]: [AI]
+- [Project 2]: [WEB DEVLOPMENT]
 - ...
 
 ## 🌱 I'm currently learning
-- [Technology/Skill 1]
-- [Technology/Skill 2]
-- ...
-
-## 💼 Work Experience
-- [Job Title] at [Company] (Start Date - End Date)
-- [Job Title] at [Company] (Start Date - End Date)
-- ...
+- [HTML]
 
 ## 📫 How to reach me
-- Email: [your.email@example.com]
+- Email: [PECHAZHAGAN.2003@GMAIL.COM]
 - LinkedIn: [Your LinkedIn profile URL]
 - Twitter: [@YourTwitterHandle]
 
